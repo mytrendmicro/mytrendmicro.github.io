@@ -1,1 +1,1 @@
-# mytrendmicro.readthedocs.io
+# mytrendmicro.github.io
